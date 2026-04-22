@@ -1,170 +1,212 @@
 [
   {
     "id": 1,
-    "name": "Cyberpunk 2077",
-    "description": "Open-world RPG set in a futuristic city.",
-    "price": 29.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg"
+    "name": "Santorini, Greece",
+    "description": "Iconic white-washed buildings with blue domes perched on volcanic cliffs above the stunning Aegean Sea.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=600&h=900&fit=crop"
   },
   {
     "id": 2,
-    "name": "Grand Theft Auto V",
-    "description": "Open-world action game with missions and online mode.",
-    "price": 19.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg"
+    "name": "Machu Picchu, Peru",
+    "description": "Ancient Incan citadel set high in the Andes Mountains, surrounded by breathtaking cloud-draped peaks.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1526392060635-9d6019884377?w=600&h=900&fit=crop"
   },
   {
     "id": 3,
-    "name": "Minecraft",
-    "description": "Build and explore in a block world sandbox game.",
-    "price": 26.95,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg"
+    "name": "Aurora Borealis, Iceland",
+    "description": "Nature's greatest light show — vivid green and purple curtains of light dancing across the Arctic night sky.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600&h=900&fit=crop"
   },
   {
     "id": 4,
-    "name": "Red Dead Redemption 2",
-    "description": "Western open-world story adventure game.",
-    "price": 24.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg"
+    "name": "Amalfi Coast, Italy",
+    "description": "Dramatic coastal cliffs lined with colorful villages, lemon groves, and sparkling Mediterranean waters.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1533587851505-d119e13fa0d7?w=600&h=900&fit=crop"
   },
   {
     "id": 5,
-    "name": "Elden Ring",
-    "description": "Hard fantasy action RPG with massive open world.",
-    "price": 59.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg"
+    "name": "Bali, Indonesia",
+    "description": "Tropical paradise known for terraced rice fields, ancient Hindu temples, and lush jungle landscapes.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=600&h=900&fit=crop"
   },
   {
     "id": 6,
-    "name": "The Witcher 3: Wild Hunt",
-    "description": "Story-driven RPG following Geralt in a massive fantasy world.",
-    "price": 14.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg"
+    "name": "Grand Canyon, USA",
+    "description": "A colossal natural wonder carved by the Colorado River — one of the most awe-inspiring landscapes on Earth.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1527489377706-5bf97e608852?w=600&h=900&fit=crop"
   },
   {
     "id": 7,
-    "name": "Sekiro: Shadows Die Twice",
-    "description": "Hardcore action game focused on precision combat and samurai stealth.",
-    "price": 59.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/header.jpg"
+    "name": "Maldives",
+    "description": "Crystal-clear turquoise lagoons, overwater bungalows, and pristine coral reefs in the heart of the Indian Ocean.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=600&h=900&fit=crop"
   },
   {
     "id": 8,
-    "name": "Hogwarts Legacy",
-    "description": "Open-world magic RPG set in the Harry Potter universe.",
-    "price": 59.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/header.jpg"
+    "name": "Patagonia, Argentina",
+    "description": "Untamed wilderness at the end of the world — dramatic glaciers, jagged peaks, and vast open steppes.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&h=900&fit=crop"
   },
   {
     "id": 9,
-    "name": "Baldur's Gate 3",
-    "description": "Deep story RPG with turn-based combat and strong player choices.",
-    "price": 59.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg"
+    "name": "Kyoto, Japan",
+    "description": "Ancient imperial capital with thousands of temples, golden pavilions, and stunning cherry blossom gardens.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=600&h=900&fit=crop"
   },
   {
     "id": 10,
-    "name": "Resident Evil 4 Remake",
-    "description": "Survival horror remake with intense combat and cinematic gameplay.",
-    "price": 59.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/header.jpg"
+    "name": "Banff National Park, Canada",
+    "description": "Turquoise glacier-fed lakes, soaring Rocky Mountain peaks, and abundant wildlife in Canada's oldest national park.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&h=900&fit=crop"
   },
   {
     "id": 11,
-    "name": "DOOM Eternal",
-    "description": "Fast-paced FPS where you fight demons with brutal weapons.",
-    "price": 39.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/header.jpg"
+    "name": "Positano, Italy",
+    "description": "A fairytale cliffside village cascading down to the sea, bursting with bougainvillea and Mediterranean charm.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=600&h=900&fit=crop"
   },
   {
     "id": 12,
-    "name": "Counter-Strike 2",
-    "description": "Competitive tactical shooter focused on team-based gameplay.",
+    "name": "Zhangjiajie, China",
+    "description": "Towering sandstone pillars draped in mist, inspiring the floating mountains of the movie Avatar.",
     "price": 0.00,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg"
+    "image": "https://images.unsplash.com/photo-1513735492246-483525079686?w=600&h=900&fit=crop"
   },
   {
     "id": 13,
-    "name": "Dota 2",
-    "description": "Multiplayer MOBA game with deep strategy and hero battles.",
+    "name": "Fjords of Norway",
+    "description": "Deep, dramatic glacial inlets flanked by towering cliffs and cascading waterfalls in the Norwegian wilderness.",
     "price": 0.00,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg"
+    "image": "https://images.unsplash.com/photo-1520769945061-0a448c463865?w=600&h=900&fit=crop"
   },
   {
     "id": 14,
-    "name": "Terraria",
-    "description": "2D sandbox adventure game full of crafting and exploration.",
-    "price": 9.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg"
+    "name": "Sahara Desert, Morocco",
+    "description": "An endless sea of golden sand dunes stretching to the horizon, magical under the vast starlit desert sky.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=600&h=900&fit=crop"
   },
   {
     "id": 15,
-    "name": "Hades",
-    "description": "Roguelike action game set in Greek mythology.",
-    "price": 24.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/header.jpg"
+    "name": "Venice, Italy",
+    "description": "A unique floating city built on canals, with ornate Gothic architecture and timeless romantic atmosphere.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=600&h=900&fit=crop"
   },
   {
     "id": 16,
-    "name": "Apex Legends",
-    "description": "Fast battle royale shooter with unique characters and abilities.",
+    "name": "Plitvice Lakes, Croatia",
+    "description": "A series of sixteen terraced lakes connected by waterfalls flowing through lush forest in vivid shades of blue.",
     "price": 0.00,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg"
+    "image": "https://images.unsplash.com/photo-1586861203927-800a5acdcc4d?w=600&h=900&fit=crop"
   },
   {
     "id": 17,
-    "name": "Tom Clancy's Rainbow Six Siege",
-    "description": "Tactical FPS focused on team strategy and destruction gameplay.",
-    "price": 19.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/header.jpg"
+    "name": "Cappadocia, Turkey",
+    "description": "Surreal landscape of fairy chimneys and cave dwellings, best experienced from a hot air balloon at sunrise.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?w=600&h=900&fit=crop"
   },
   {
     "id": 18,
-    "name": "Forza Horizon 5",
-    "description": "Open-world racing game with realistic cars and environments.",
-    "price": 59.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg"
+    "name": "Great Barrier Reef, Australia",
+    "description": "The world's largest coral reef system, home to thousands of marine species in spectacular underwater color.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1587139223877-04ea1ebfa061?w=600&h=900&fit=crop"
   },
   {
     "id": 19,
-    "name": "FIFA 23",
-    "description": "Realistic football simulation game with global teams.",
-    "price": 29.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/header.jpg"
+    "name": "Swiss Alps, Switzerland",
+    "description": "Majestic snow-capped peaks, charming alpine villages, and pristine meadows — the crown of Europe.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1531306728370-e2ebd9d7bb99?w=600&h=900&fit=crop"
   },
   {
     "id": 20,
-    "name": "NieR:Automata",
-    "description": "Action RPG with emotional story and fast combat system.",
-    "price": 39.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/header.jpg"
+    "name": "Amazon Rainforest, Brazil",
+    "description": "The world's largest tropical rainforest, teeming with extraordinary biodiversity and ancient indigenous culture.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=600&h=900&fit=crop"
   },
   {
     "id": 21,
-    "name": "Assassin's Creed Valhalla",
-    "description": "Viking-themed open-world action adventure game.",
-    "price": 59.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/header.jpg"
+    "name": "Ha Long Bay, Vietnam",
+    "description": "Thousands of limestone karst islands rising dramatically from emerald green waters in the Gulf of Tonkin.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1528127269322-539801943592?w=600&h=900&fit=crop"
   },
   {
     "id": 22,
-    "name": "Starfield",
-    "description": "Space exploration RPG with open-world galaxies.",
-    "price": 69.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/header.jpg"
+    "name": "Petra, Jordan",
+    "description": "The rose-red ancient city carved directly into cliff faces, a UNESCO World Heritage and wonder of the world.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1548133750-129b08d8c95b?w=600&h=900&fit=crop"
   },
   {
     "id": 23,
-    "name": "Portal 2",
-    "description": "Puzzle-platform game using portals and physics mechanics.",
-    "price": 9.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg"
+    "name": "Serengeti, Tanzania",
+    "description": "Witness the greatest wildlife spectacle on Earth — millions of animals migrating across endless golden savanna.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=600&h=900&fit=crop"
   },
   {
     "id": 24,
-    "name": "Left 4 Dead 2",
-    "description": "Co-op zombie shooter with intense survival gameplay.",
-    "price": 9.99,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg"
+    "name": "Angkor Wat, Cambodia",
+    "description": "The largest religious monument in the world — a magnificent 12th-century temple complex deep in the jungle.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=600&h=900&fit=crop"
+  },
+  {
+    "id": 25,
+    "name": "Pamukkale, Turkey",
+    "description": "Stunning natural terraces of pure white calcium carbonate filled with warm turquoise thermal pools.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=600&h=900&fit=crop"
+  },
+  {
+    "id": 26,
+    "name": "Niagara Falls, Canada/USA",
+    "description": "One of the most powerful and awe-inspiring waterfalls on Earth, straddling the US-Canada border.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1489447068241-b3490214e879?w=600&h=900&fit=crop"
+  },
+  {
+    "id": 27,
+    "name": "Tuscany, Italy",
+    "description": "Rolling golden hills dotted with cypress trees, medieval hilltop towns, and world-renowned vineyards.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?w=600&h=900&fit=crop"
+  },
+  {
+    "id": 28,
+    "name": "Antelope Canyon, USA",
+    "description": "A breathtaking slot canyon carved by water into flowing red sandstone waves and beams of light.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1474044159687-1ee9f3a51722?w=600&h=900&fit=crop"
+  },
+  {
+    "id": 29,
+    "name": "Raja Ampat, Indonesia",
+    "description": "Remote island archipelago with the highest marine biodiversity on Earth and stunning above-water scenery.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1516690561799-46d8f74f9abf?w=600&h=900&fit=crop"
+  },
+  {
+    "id": 30,
+    "name": "Lofoten Islands, Norway",
+    "description": "Dramatic red fishing villages nestled beneath jagged Arctic peaks, reflected in still mirror-like fjord waters.",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1520769945061-0a448c463865?w=600&h=900&fit=crop"
   }
 ]
