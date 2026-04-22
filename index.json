@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Cyberpunk 2077",
+    "description": "Open-world RPG set in a futuristic city.",
+    "price": 29.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Grand Theft Auto V",
+    "description": "Open-world action game with missions and online mode.",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Minecraft",
+    "description": "Build and explore in a block world sandbox game.",
+    "price": 26.95,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Red Dead Redemption 2",
+    "description": "Western open-world story adventure game.",
+    "price": 24.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Elden Ring",
+    "description": "Hard fantasy action RPG with massive open world.",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The Witcher 3: Wild Hunt",
+    "description": "Story-driven RPG following Geralt in a massive fantasy world.",
+    "price": 14.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sekiro: Shadows Die Twice",
+    "description": "Hardcore action game focused on precision combat and samurai stealth.",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/header.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Hogwarts Legacy",
+    "description": "Open-world magic RPG set in the Harry Potter universe.",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/header.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Baldur's Gate 3",
+    "description": "Deep story RPG with turn-based combat and strong player choices.",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Resident Evil 4 Remake",
+    "description": "Survival horror remake with intense combat and cinematic gameplay.",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/header.jpg"
+  },
+  {
+    "id": 11,
+    "name": "DOOM Eternal",
+    "description": "Fast-paced FPS where you fight demons with brutal weapons.",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/header.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Counter-Strike 2",
+    "description": "Competitive tactical shooter focused on team-based gameplay.",
+    "price": 0.00,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Dota 2",
+    "description": "Multiplayer MOBA game with deep strategy and hero battles.",
+    "price": 0.00,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Terraria",
+    "description": "2D sandbox adventure game full of crafting and exploration.",
+    "price": 9.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Hades",
+    "description": "Roguelike action game set in Greek mythology.",
+    "price": 24.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/header.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Apex Legends",
+    "description": "Fast battle royale shooter with unique characters and abilities.",
+    "price": 0.00,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "description": "Tactical FPS focused on team strategy and destruction gameplay.",
+    "price": 19.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/header.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Forza Horizon 5",
+    "description": "Open-world racing game with realistic cars and environments.",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg"
+  },
+  {
+    "id": 19,
+    "name": "FIFA 23",
+    "description": "Realistic football simulation game with global teams.",
+    "price": 29.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/header.jpg"
+  },
+  {
+    "id": 20,
+    "name": "NieR:Automata",
+    "description": "Action RPG with emotional story and fast combat system.",
+    "price": 39.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/header.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Assassin's Creed Valhalla",
+    "description": "Viking-themed open-world action adventure game.",
+    "price": 59.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/header.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Starfield",
+    "description": "Space exploration RPG with open-world galaxies.",
+    "price": 69.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/header.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Portal 2",
+    "description": "Puzzle-platform game using portals and physics mechanics.",
+    "price": 9.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Left 4 Dead 2",
+    "description": "Co-op zombie shooter with intense survival gameplay.",
+    "price": 9.99,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg"
+  }
+]
